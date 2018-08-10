@@ -19,18 +19,18 @@ h1 {
 	letter-spacing: 3px;
 }
 
-h1:hover {
-	background-color: none;	
-}
 
 h2 {
 	text-transform: uppercase;
-	letter-spacing: 11px;
-	color: #c9c3bb;
+	letter-spacing: 13px;
+	color: #88735C;
+	background-color: #B48756;
+	opacity: 0.8;
 }
 
 h2:hover {
-	color: #897f72;
+	/*color: #897f72;*/
+	background: rgba (69, 63, 57, 0.5);
 }
 
 #me {
